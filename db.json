@@ -4,8 +4,8 @@
       "name": "user1",
       "email": "user1@mail.ru",
       "password": "123456",
-      "id": 1,
-      "phoneNumber": "12345678",
+      "id": "1",
+      "phoneNumber": "89279456320",
       "experience": "1001231",
       "jobSearch": null
     },
@@ -13,7 +13,7 @@
       "name": "user2",
       "email": "user2@mail.ru",
       "password": "123456",
-      "id": 2,
+      "id": "2",
       "phoneNumber": "8950234142",
       "experience": "",
       "jobSearch": "Дворник"
@@ -22,7 +22,7 @@
       "name": "User3",
       "email": "user3@mail.ru",
       "password": "123456",
-      "id": 3,
+      "id": "3",
       "phoneNumber": null,
       "experience": null,
       "jobSearch": null
@@ -42,7 +42,7 @@
           "date": "2023-12-23T13:29:03.933Z"
         }
       ],
-      "id": 4
+      "id": "4"
     },
     {
       "userId": 1,
@@ -55,9 +55,13 @@
         {
           "userIdResponses": 2,
           "date": "2023-12-23T13:29:04.808Z"
+        },
+        {
+          "userIdResponses": "2",
+          "date": "2024-02-25T09:10:16.642Z"
         }
       ],
-      "id": 5
+      "id": "5"
     },
     {
       "userId": 1,
@@ -67,7 +71,7 @@
       "salary": "50000",
       "additionalInformation": null,
       "responses": [],
-      "id": 6
+      "id": "6"
     },
     {
       "userId": 1,
@@ -82,7 +86,22 @@
           "date": "2023-12-31T20:05:51.715Z"
         }
       ],
-      "id": 7
+      "id": "7"
+    },
+    {
+      "id": "16ed",
+      "userId": "1",
+      "nameWork": "Робот",
+      "company": "Максимум",
+      "city": "Саранск",
+      "salary": "12000",
+      "additionalInformation": "-",
+      "responses": [
+        {
+          "userIdResponses": "2",
+          "date": "2024-02-25T09:10:46.851Z"
+        }
+      ]
     }
   ]
 }
